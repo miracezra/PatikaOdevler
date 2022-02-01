@@ -1,0 +1,16 @@
+C:\Users\Mirac Ezra\Desktop\programlama\bin\Debug\net5.0\programlama.exe
+C:\Users\Mirac Ezra\Desktop\programlama\bin\Debug\net5.0\programlama.deps.json
+C:\Users\Mirac Ezra\Desktop\programlama\bin\Debug\net5.0\programlama.runtimeconfig.json
+C:\Users\Mirac Ezra\Desktop\programlama\bin\Debug\net5.0\programlama.runtimeconfig.dev.json
+C:\Users\Mirac Ezra\Desktop\programlama\bin\Debug\net5.0\programlama.dll
+C:\Users\Mirac Ezra\Desktop\programlama\bin\Debug\net5.0\ref\programlama.dll
+C:\Users\Mirac Ezra\Desktop\programlama\bin\Debug\net5.0\programlama.pdb
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.csproj.AssemblyReference.cache
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.AssemblyInfoInputs.cache
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.AssemblyInfo.cs
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.csproj.CoreCompileInputs.cache
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.dll
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\ref\programlama.dll
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.pdb
+C:\Users\Mirac Ezra\Desktop\programlama\obj\Debug\net5.0\programlama.genruntimeconfig.cache
