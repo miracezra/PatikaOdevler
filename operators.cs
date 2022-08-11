@@ -51,6 +51,7 @@ static void Main(string[] args)
     
     int sayi1 =3;
     int sayi2 =4;
+    
 
     int sonuc1  =sayi1/sayi2;
 
